@@ -24,3 +24,18 @@ This projects aims at answering the following questions:
 * At what age are you more likely to suffer an accident?
 * What is the main cause of accidents?
 * How likely are you to survive a car accident?
+
+Other ideas: 
+* corr. bt. car age and accidents
+* corr. bt. license age and accidents
+* hyp test: more accidents for red cars?
+* hyp test: more accidents on weekends?
+* hyp test: are accidents equally distributed during the days of the week/hours of day?
+
+Other useful links:
+* How to plot google map using gmplot package
+* https://beteve.cat/mobilitat/accidents-transit-barcelona-2017-mapa-2/
+* https://beteve.cat/mobilitat/accidents-transit-barcelona-primera-meitat-2018/
+* plot using cars figures
+
+
