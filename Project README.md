@@ -31,11 +31,14 @@ Other ideas:
 * hyp test: more accidents for red cars?
 * hyp test: more accidents on weekends?
 * hyp test: are accidents equally distributed during the days of the week/hours of day?
+* maybe check. db. of weather if I have time to check correlation between rain and rate of accidents
+* do daily profile for every day, also for week / weekend
+
 
 Other useful links:
 * How to plot google map using gmplot package
 * https://beteve.cat/mobilitat/accidents-transit-barcelona-2017-mapa-2/
 * https://beteve.cat/mobilitat/accidents-transit-barcelona-primera-meitat-2018/
 * plot using cars figures
-
-
+* https://www.axalta.com/content/dam/EMEA/Axalta/HQ/Public/Industrial%20Coatings/Documents/Brochures/axalta-color-popularity-report-2018-brochure.pdf
+* https://www.lavanguardia.com/motor/rankings/20180416/442455879782/10-colores-coche-vendidos.html
